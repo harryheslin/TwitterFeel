@@ -23,5 +23,5 @@ We expect you to have a S3 bucket and an ElastiCache in AWS or a Redis cache in 
 - Run `localhost:3000` in your favourite browser.
 
 # Further Information
-View the [video](https://youtu.be/HNPcf3XRgxE){:target="_blank"} of the web app to understand its features.
+View the [video](https://youtu.be/HNPcf3XRgxE) of the web app to understand its features.
 This app is built in a team - a huge shoutout to my teammate.
